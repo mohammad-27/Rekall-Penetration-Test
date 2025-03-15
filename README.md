@@ -31,11 +31,12 @@ The primary goals of the penetration test were to:
 # Scope
 The penetration test scope, as defined by Rekall Corporation, included:
 
--Web Application – Testing for OWASP Top 10 vulnerabilities and web-based attack vectors.
--Internal Network – Assessment of:
-  Linux Servers
-  Windows Workstations
-  Active Directory Domain Controller
+**Web Application** – Testing for OWASP Top 10 vulnerabilities and web-based attack vectors.
+
+**Internal Network** – Assessment of:
+  * Linux Servers
+  * Windows Workstations
+  * Active Directory Domain Controller
 # Executive Summary
 The penetration test was conducted in **three phases**:
 
