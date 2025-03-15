@@ -20,9 +20,11 @@ The primary goals of the penetration test were to:
 **Reconnaissance**
 -Conducted Open Source Intelligence (OSINT) gathering to enumerate publicly available data related to Rekall Corporation.
 -Performed active reconnaissance using tools like Nmap, BloodHound, and OSINT frameworks to map out potential attack vectors.
+
 **Vulnerability Identification & Exploitation**
 -Identified vulnerable services using automated and manual enumeration techniques with tools such as Metasploit, Burp Suite, and Hashcat.
 -Exploited identified weaknesses to gain unauthorized access, escalate privileges, and maintain persistence.
+
 **Reporting**
 -Documented all findings, including vulnerability details, exploitation methods, and remediation recommendations.
 -Ensured proper cleanup of tools and files from the testing environment after completion.
