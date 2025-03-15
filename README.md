@@ -3,10 +3,9 @@
 This repository contains the penetration test report for Rekall Corporation, documenting the security assessment conducted on its internal network and web applications. The objective of this assessment was to identify, exploit, and analyze vulnerabilities within the environment while providing recommendations for remediation.
 
 Testing was conducted between February 3rd through February 7th, 2025, focusing on:
-
-Black-box testing of Rekall’s web application and internal network, identifying and exploiting vulnerabilities without prior knowledge or administrator access.
--Enumeration and exploitation of accessible sensitive data within Rekall’s databases to assess potential impact and risk exposure.
--Comprehensive documentation of attack paths, methodologies, and remediation strategies.
+* Black-box testing of Rekall’s web application and internal network, identifying and exploiting vulnerabilities without prior knowledge or administrator access.
+* Enumeration and exploitation of accessible sensitive data within Rekall’s databases to assess potential impact and risk exposure.
+* Comprehensive documentation of attack paths, methodologies, and remediation strategies.
 # Objectives
 The primary goals of the penetration test were to:
 
