@@ -51,29 +51,29 @@ These vulnerabilities pose an immediate risk to Rekall’s security posture. The
 # Key Findings
 FORMAT: (Vulnerability | Severity)
 
-XSS payload | Critical
-XSS payload PT 3 | Critical
-LFI exploit | Critical
-SQL injection | Critical
-Admin credentials left in HTML | Critical
-Network Host Enumeration via Nmap | Critical
-Drupal CMS Detection via Aggressive Scanning | Critical
-Remote Code Executinon Vulnerability Detected | Critical
-Root Access via Stolen SSH Credentials | Critical
-Shellshock Eploitation in Apache | Critical
-Credentials Exposed in Public GitHub Repository | Critical
-SLMail Exploit Remote Code Execution | Critical
-Unauthorized Access via Meterpreter Session | Critical
-Privilege Escalation via SLMail Exploit & NTLM Hash Dumping | Critical
-Cached Credential Dumping & Lateral Movement to Server2019 | Critical
-XSS payload PT 2 | High
-Sensitive Files Accessible via URL Manipulation | High
-Unrestricted access to to sensitive pages | High
-Drupal CMS Detection via Aggressive Scanning | High
-Open HTTP Port with exposed Credentials | High
-Anonymous FTP Access Exposes Sensitive Files | High
-Scheduled task enumeration via meterpreter | High
-Unrestricted Access to Root directory | High
-Public WHOIS Data Exposure | Medium
-SSL Certificate Transparency Exposure | Low
-Publicly Discoverable IP address | Low
+* XSS payload | Critical
+* XSS payload PT 3 | Critical
+* LFI exploit | Critical
+* SQL injection | Critical
+* Admin credentials left in HTML | Critical
+* Network Host Enumeration via Nmap | Critical
+* Drupal CMS Detection via Aggressive Scanning | Critical
+* Remote Code Executinon Vulnerability Detected | Critical
+* Root Access via Stolen SSH Credentials | Critical
+* Shellshock Eploitation in Apache | Critical
+* Credentials Exposed in Public GitHub Repository | Critical
+* SLMail Exploit Remote Code Execution | Critical
+* Unauthorized Access via Meterpreter Session | Critical
+* Privilege Escalation via SLMail Exploit & NTLM Hash Dumping | Critical
+* Cached Credential Dumping & Lateral Movement to Server2019 | Critical
+* XSS payload PT 2 | High
+* Sensitive Files Accessible via URL Manipulation | High
+* Unrestricted access to to sensitive pages | High
+* Drupal CMS Detection via Aggressive Scanning | High
+* Open HTTP Port with exposed Credentials | High
+* Anonymous FTP Access Exposes Sensitive Files | High
+* Scheduled task enumeration via meterpreter | High
+* Unrestricted Access to Root directory | High
+* Public WHOIS Data Exposure | Medium
+* SSL Certificate Transparency Exposure | Low
+* Publicly Discoverable IP address | Low
